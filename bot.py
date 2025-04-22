@@ -5,7 +5,7 @@ import sqlite3
 from datetime import datetime
 
 # Настройки
-TOKEN = "ВАШ_ТОКЕН"  # Замените на токен от @BotFather
+TOKEN = "7555717491:AAG3GFkZrZ06WTb6iiNnCZRkaFogEwKt4TY"  # Замените на токен от @BotFather
 
 # Подключение к SQLite
 conn = sqlite3.connect('birthdays.db')
